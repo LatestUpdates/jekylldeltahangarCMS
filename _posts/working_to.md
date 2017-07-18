@@ -1,7 +1,7 @@
 ---
-layout: home_three_column
-title: "At Delta Hangar, We’re Working To"
+title: At Delta Hangar, We’re Working To
 permalink: _posts/working_to.html
+layout: home_three_column
 ---
 
 <section id="intro">

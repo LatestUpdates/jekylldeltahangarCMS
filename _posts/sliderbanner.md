@@ -1,7 +1,7 @@
 ---
-layout: home_integrate
-title: "Slider Banner"
+title: Slider Banner
 permalink: _posts/sliderbanner.html
+layout: home_integrate
 ---
 
 <section id="slider">
