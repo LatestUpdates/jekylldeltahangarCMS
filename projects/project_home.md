@@ -1,5 +1,5 @@
 ---
-title: "Project Home Banner"
+title: Project Home Banner
 layout: common_page
 ---
 

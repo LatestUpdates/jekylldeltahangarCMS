@@ -1,5 +1,5 @@
 ---
-title: "Project page first project"
+title: Project page first project
 layout: common_page
 ---
 
