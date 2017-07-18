@@ -1,0 +1,42 @@
+---
+title: "Apply - why join the Delta team at The Hangar?"
+layout: common_page
+---
+
+<div id="home">
+	<div>
+		<h2 class="hangerHead spaceupdown">Why join the Delta team at The Hangar? </h2>
+		<div class="col-md-4">
+			<div class="team-wrapper">
+
+				<div class="team-des">
+					<h3 class="name-desig1">Benefits</h3>
+					<p class="apply-threeiconportion ">Enjoy a start-up atmosphere, with Delta flight benefits &amp; competitive pay. </p>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="team-wrapper">
+				<div class="team-des">
+					<h3 class="name-desig1">Experience</h3>
+					<p class="apply-threeiconportion ">Work alongside industry leaders on impactful projects with key tech players. </p>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="team-wrapper">
+				<div class="team-des">
+					<h3 class="name-desig1">Impact</h3>
+					<p class="apply-threeiconportion ">Work on solutions for Delta that make a big impact throughout aviation.</p>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+</div>
