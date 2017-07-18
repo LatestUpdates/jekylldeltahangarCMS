@@ -1,5 +1,5 @@
 ---
-title: "Apply - A Day in the life"
+title: Apply - A Day in the life
 layout: common_page
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Apply - why join the Delta team at The Hangar?"
+title: Apply - why join the Delta team at The Hangar?
 layout: common_page
 ---
 

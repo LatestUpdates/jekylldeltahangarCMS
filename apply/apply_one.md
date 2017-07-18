@@ -1,7 +1,8 @@
 ---
-title: "Apply - Top Banner"
+title: Apply - Top Banner
 layout: common_page
 ---
+
 <div id="home">
 	<div class="site-slider">
 		<img src="/img/apply_hero_desktop_1600.jpg" alt="slider image 4" class="img-responsive bannerimgoveraide imageminwidth">

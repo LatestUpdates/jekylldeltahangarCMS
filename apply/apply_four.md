@@ -1,5 +1,5 @@
 ---
-title: "Apply - Ready to apply?"
+title: Apply - Ready to apply?
 layout: common_page
 ---
 

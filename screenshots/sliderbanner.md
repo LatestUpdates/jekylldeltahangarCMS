@@ -1,7 +1,7 @@
 ---
+title: Delta Hangar - Home page banner
+permalink: "/home/sliderbanner.html"
 layout: home
-title: "Delta Hangar - Home page banner"
-permalink: /home/sliderbanner.html
 ---
 
 <section id="slider">

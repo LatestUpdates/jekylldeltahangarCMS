@@ -1,7 +1,7 @@
 ---
+title: Delta Hangar - At Delta Hangar
+permalink: "/home/working_to.html"
 layout: home
-title: "Delta Hangar - At Delta Hangar"
-permalink: /home/working_to.html
 ---
 
 <section id="intro">
