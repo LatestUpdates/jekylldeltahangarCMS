@@ -1,5 +1,5 @@
 ---
-title: Project page first project
+title: "Project page first project"
 layout: common_page
 ---
 
@@ -20,7 +20,5 @@ layout: common_page
 				<br>
 					<br>
 						<br>
-
 						</div>
-
 					</div>
