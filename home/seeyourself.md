@@ -1,8 +1,7 @@
 ---
-title: Home See yourself Banner
+title: "Home See yourself Banner"
 layout: common_page
 ---
-
 <section id="portfolio" class="parallax-section">
 	<img src="/img/see_yourself_banner_desktop.jpg" alt="slider image 4" class="imageminwidth imagesize">
 		<div class="container">
