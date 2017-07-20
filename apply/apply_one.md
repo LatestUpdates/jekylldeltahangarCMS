@@ -11,7 +11,7 @@ layout: common_page
 					<div class="col-md-12">
 						<div class="slider-caption">
 							<h2>
-								<span id="textdecorator">&nbsp;Hai Want to join The Hangar team? <span class="blinking-cursor">|</span>
+								<span id="textdecorator">&nbsp;Want to join The Hangar team? <span class="blinking-cursor">|</span>
 								</span>
 							</h2>
 						</div>
