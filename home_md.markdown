@@ -1,9 +1,8 @@
 ---
 title: Delta The Hangar - Home
-permalink: /home/index.html
+permalink: "/home/index.html"
 layout: home
 ---
-
 
 {% include_relative _site/homepagebanner.html %}
 
